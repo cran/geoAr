@@ -1,3 +1,32 @@
+# geoAr 1.0.0
+
+Ready for CRAN re submission
+
+
+# geoAr (development version) 0.0.1.5.0.0
+
+- Fix #21 : `PKGNAME` tag
+
+
+# geoAr 0.0.1.4.3.1
+
+- Changes `stop` for `warning` in `get_endpoint()` internal function for `georefar` family functions. 
+
+# geoAr 0.0.1.4.3
+
+Modify `georefar get_*` family functions:
+
+ - Add  `TOKEN` workflow alternative (documented)
+ - Add new endpoints:  `get_asentamientos ` & `get_asentamientos`
+
+# geoAr 0.0.1.4.2.1
+
+Added [georefar](https://github.com/pdelboca/georefar) (R wrapper for georef-ar API) `get_*` family functions 
+
+# geoAr 0.0.1.4.2
+
+First CRAN version
+
 # geoAr 0.0.1.4
 
 `get_bahra()` function for a new data source: _Base de Asentamientos Humanos de la República Argentina_ (BAHRA) 
