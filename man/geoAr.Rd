@@ -2,8 +2,8 @@
 % Please edit documentation in R/geoAr.R
 \docType{package}
 \name{geoAr}
-\alias{geoAr}
 \alias{geoAr-package}
+\alias{geoAr}
 \title{\code{geoAr} package}
 \description{
 Caja de Herramientas GEO de Argentina
@@ -13,6 +13,7 @@ See the README on
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://politicaargentina.github.io/geoAr/}
   \item \url{https://github.com/PoliticaArgentina/geoAr}
   \item Report bugs at \url{https://github.com/PoliticaArgentina/geoAr/issues}
 }
